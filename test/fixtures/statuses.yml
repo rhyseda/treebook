@@ -2,6 +2,8 @@
 
 one:
   content: MyText
+  user: kermit
 
 two:
   content: MyText
+  user: kermit
