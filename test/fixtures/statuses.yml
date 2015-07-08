@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: kermit
+
+three:
+  content: 'Chilling in the pond'
+  user: dolly

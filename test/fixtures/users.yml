@@ -3,3 +3,9 @@ kermit:
   last_name: "The Frog"
   email: "kermit@frog.sw"
   profile_name: "kermit"
+
+dolly:
+  first_name: "Dolly"
+  last_name: "The Duck"
+  email: "dolly@duck.dk"
+  profile_name: "dolly"
